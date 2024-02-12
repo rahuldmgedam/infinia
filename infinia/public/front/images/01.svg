@@ -1,0 +1,25 @@
+<svg id="a9bbaf01-ad80-4fd7-a170-846d51309842" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1174.87 253.13">
+   <title>Diagrames 01</title>
+   <polygon points="275.48 172.08 175.79 123.39 175.79 4.21 275.48 52.69 275.48 172.08" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+   <rect x="275.48" y="52.74" width="798.03" height="119.34" transform="translate(1348.99 224.82) rotate(180)" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+   <polyline points="175.79 4.21 973.83 4.21 1073.51 52.69 1073.51 172.08" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+   <polyline points="1073.51 172.08 275.48 172.08 175.79 123.39" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+   <line x1="275.48" y1="192.94" x2="275.48" y2="213.81" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="1073.51" y1="193.52" x2="1073.51" y2="214.39" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="276.06" y1="203.37" x2="1073.51" y2="203.37" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="1122.62" y1="52.4" x2="1143.48" y2="52.4" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="136.89" y1="123.89" x2="157.76" y2="123.89" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="137.18" y1="4.21" x2="158.05" y2="4.21" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="1020.35" y1="3.1" x2="1041.21" y2="3.1" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <line x1="1029.86" y1="3.04" x2="1132.47" y2="52.4" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <text transform="translate(691.54 241.84)" style="font-size:20.026519775390625px;fill:#fff;font-family:Poppins-Light, Poppins;font-weight:300">Length</text>
+   <text transform="translate(18.03 68)" style="font-size:20.026519775390625px;fill:#fff;font-family:Poppins-Light, Poppins;font-weight:300">Thickness</text>
+   <text transform="translate(1117.86 30.72)" style="font-size:20.026519775390625px;fill:#fff;font-family:Poppins-Light, Poppins;font-weight:300">Width</text>
+   <line x1="147.32" y1="4.21" x2="147.32" y2="123.89" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <polyline points="1078.04 26.02 1093.89 1.76 1140.07 1.76" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <circle cx="1140.07" cy="1.76" r="1.76" style="fill:#fff"/>
+   <polyline points="144.38 68 135.79 62.13 119.61 62.13" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <circle cx="119.61" cy="62.13" r="1.76" style="fill:#fff"/>
+   <polyline points="621.41 210.59 637.26 234.85 683.43 234.85" style="fill:none;stroke:#fff;stroke-miterlimit:10"/>
+   <circle cx="683.43" cy="234.85" r="1.76" style="fill:#fff"/>
+</svg>
